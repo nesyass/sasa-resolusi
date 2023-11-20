@@ -3,9 +3,12 @@ RENCANA BELAJAR SASA
 - belajar pengpro 
   * review perulangan
   * belajar if-else
-   ^ review boolean
+   ^ latihan soal
 - belajar alpro
 - lanjutin course udemy
+ * cyber security pemula
 - upload project
- ^ minimal 1 mini project
+ * minimal 1 mini project setiap 1 bulan
+- review html css
 - belajar struktur data
+- belajar phyton
