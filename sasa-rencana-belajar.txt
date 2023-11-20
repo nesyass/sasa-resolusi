@@ -7,3 +7,4 @@ RENCANA BELAJAR SASA
 - lanjutin course udemy
 - upload project
 - review html css
+- belajar struktur data
