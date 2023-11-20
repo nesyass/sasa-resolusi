@@ -6,6 +6,7 @@ RENCANA BELAJAR SASA
    ^ latihan soal
 - belajar alpro
 - lanjutin course udemy
+ * cyber security pemula
 - upload project
  * minimal 1 mini project setiap 1 bulan
 - review html css
