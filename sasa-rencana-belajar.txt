@@ -3,8 +3,9 @@ RENCANA BELAJAR SASA
 - belajar pengpro 
   * review perulangan
   * belajar if-else
+   ^ review boolean
 - belajar alpro
 - lanjutin course udemy
 - upload project
-- review html css
+ ^ minimal 1 mini project
 - belajar struktur data
