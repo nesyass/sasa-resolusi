@@ -1,6 +1,8 @@
 RENCANA BELAJAR SASA
 
-- belajar pengpro
+- belajar pengpro 
+  * review perulangan
+  * belajar if-else
 - belajar alpro
 - lanjutin course udemy
 - upload project
